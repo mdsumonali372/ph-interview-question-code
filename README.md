@@ -33,7 +33,7 @@
 <h4>javaScript-ES6-31</h4>
 
 - [javaScript-ES6-31](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/javaScript-ES6-31)
-- [more-Javascript-ES6-32](https://github.com/Rakib011110/more-Javascript-ES6-practice-32)
+- [more-Javascript-ES6-32](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/more-Javascript-ES6-practice-32)
 - [JavaScript-Api-33](https://github.com/Rakib011110/JavaScript-Api-practice-33)
 - [explore-Javascript-object-36](https://github.com/Rakib011110/explore-Javascript-object-36)
 - [Javascript-concept-39](https://github.com/Rakib011110/more-Javascript-concept-39)
