@@ -47,7 +47,7 @@
 
 ## All
 
-- [CLICK ME FOR ALL MODULE QUESTIONS & ANS](https://github.com/Rakib011110/javaScript-documents)
+- [CLICK ME FOR ALL MODULE QUESTIONS & ANS](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/javaScript-documents)
 
 ##
 
