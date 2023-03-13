@@ -37,7 +37,7 @@
 - [JavaScript-Api-33](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/JavaScript-Api-practice-33)
 - [explore-Javascript-object-36](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/explore-Javascript-object-36)
 - [Javascript-concept-39](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/more-Javascript-concept-39)
-- [debugging-practice-40](https://github.com/Rakib011110/debugging-practice-40)
+- [debugging-practice-40](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/debugging-practice-40)
 
 <h4>about browsers</h4>
 
