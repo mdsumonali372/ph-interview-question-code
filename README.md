@@ -23,7 +23,7 @@
 
 ## Documentation for js
 
-- [introduced-to-js-17](https://github.com/Rakib011110/introduced-to-js-17)
+- [introduced-to-js-17](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/introduced-to-js-17)
 - [JavaScript-Array-Condition-18](https://github.com/Rakib011110/JavaScript-Array-Condition-18)
 - [loops-practice-problems-19](https://github.com/Rakib011110/loops-practice-problems-19)
 - [js-function-object-20](https://github.com/Rakib011110/js-function-object)

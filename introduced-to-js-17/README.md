@@ -14,7 +14,7 @@
 List of JavaScript:
 
 - [how To work js](#how-Towork-js)
-- [how to write variable](###write-variable)
+- [how to write variable](#write-variable)
 - [Arithmetic-Operators](#Arithmetic-Operators)
 - [js type](#js-type)
 
@@ -133,7 +133,7 @@ var isSingle = false;
 ```js
 // good variable
 var price = 29;
-/* 
+/*
 vaR price = 29;
 Var price = 29;
 VAR price = 29; */
@@ -150,12 +150,12 @@ var return = true;
 /*  3. variable name can not have quotation
 var "name" = "Tom Hanks"; */
 
-/* 
+/*
  4. variable name can not starts with a number but can ends with a number
 var 99Club = 1964;
 var club25 = 2025;
  */
-/* 
+/*
  5. How to use long names
  can not use dash
 var user-name = "raj bappa";
