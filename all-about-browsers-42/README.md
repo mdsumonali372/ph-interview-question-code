@@ -6,6 +6,7 @@
 </summary>
 <br >
 
+```
 ১. ব্রাউজার কিভাবে কাজ করে। কিভাবে DOM tree, Render Tree বানায় সেটা ছোট করে হলেও নামগুলো জানতে হবে
 
 ২. alert, confirm, prompt এই গুলা কোনটা দিয়ে কী কাজ করে। এবং এইগুলার মধ্যে পার্থক্য কি?
@@ -22,10 +23,14 @@
 
 ৮. Cookies, local storage, session storage এর মধ্যে পার্থক্য কি সেটা জানতে হবে।
 
+```
+
 </details>
 <details>
 <summary> ব্রাউজার কিভাবে কাজ কর ? (Click Me) </summary>
 <br>
+
+```
 1.একটি ওয়েব ব্রাউজার সম্প্রদায়ক সফটওয়্যার যা ইন্টারনেটে সংযুক্ত হয় এবং ওয়েব পেজগুলি প্রদর্শন করে। ব্রাউজার কিভাবে কাজ করে তা নিম্নোক্ত ধাপগুলি মোটামুটি অনুসরণ করে:
 
 2.ব্রাউজার ইউজারের রিকোয়েস্ট গ্রহণ করে। ইউজার যখন একটি URL টাইপ করে বা একটি লিঙ্কে ক্লিক করে একটি ওয়েব পেজ লোড করতে চায়, ব্রাউজার একটি রিকোয়েস্ট তৈরি করে।
@@ -54,11 +59,15 @@
 
 14.In summary, a web browser works by fetching and rendering web pages, executing JavaScript code, and allowing users to interact with the page. It does this by parsing HTML, creating a DOM tree, and applying CSS styles to the elements. The browser also requests additional resources like images and JavaScript files, and updates the page as users interact with it.
 
+```
+
 </details>
 
 <details>
 <summary> BOM (Browser Object Model) and DOM (Document Object Model) ? (Click Me) </summary>
 <br>
+
+```
 1.BOM (Browser Object Model) and DOM (Document Object Model) are two distinct but related APIs in web development. Here are the main differences between BOM and DOM:
 
 2.Definition: The BOM is a set of objects and methods provided by the browser to allow developers to manipulate the browser window and its properties, while the DOM is a set of objects and methods that represent the HTML or XML document and allow developers to access and manipulate its content and structure.
@@ -73,21 +82,25 @@
 
 7.In summary, BOM provides access to browser-specific functionalities, while the DOM provides access to the document content and structure. The DOM is a standardized API and is widely supported, while the BOM is not standardized and varies across different browsers
 
+```
+
 </details>
 <details>
 <summary> Location API is a browser ? (Click Me) </summary>
 <br>
+
+```
 - The Location API is a browser API that provides access to the current location and URL of the browser. It allows developers to obtain information about the current location of the user and to change the location of the current document. The Location API is a part of the BOM (Browser Object Model) and provides access to the location object, which has properties and methods that allow developers to manipulate the location of the current document.
 - The most commonly used properties of the location object include:
 
-1.href - returns the entire URL of the current page.
-2.protocol - returns the protocol (http, https, ftp, etc.) of the current page.
-3.host - returns the domain name and port number of the current page.
-4.hostname - returns the domain name of the current page.
-5.port - returns the port number of the current page.
-6.pathname - returns the path and filename of the current page.
-7.search - returns the query string of the current page.
-8.hash - returns the anchor part of the current page URL.
+  1.href - returns the entire URL of the current page.
+  2.protocol - returns the protocol (http, https, ftp, etc.) of the current page.
+  3.host - returns the domain name and port number of the current page.
+  4.hostname - returns the domain name of the current page.
+  5.port - returns the port number of the current page.
+  6.pathname - returns the path and filename of the current page.
+  7.search - returns the query string of the current page.
+  8.hash - returns the anchor part of the current page URL.
 
 - The most commonly used methods of the location object include:
 
@@ -107,12 +120,16 @@
 
   16.host - বর্তমান পৃষ্ঠার ডোমেইন নাম এবং পোর্ট ন
 
+```
+
 </details>
 
 <details>
 <summary> What is cookie
 ? (Click Me) </summary>
 <br>
+
+```
 1.A cookie is a small text file created by a web server and stored on a user's computer by their web browser. Cookies are commonly used by websites to track and store information about their users, such as their preferences, login status, and browsing history.
 
 2.Cookies are typically used to identify a user across multiple visits to a website, allowing the website to personalize the user's experience and remember their preferences. For example, a shopping website might use cookies to remember a user's shopping cart contents, so that they can continue shopping where they left off during a previous visit.
@@ -127,11 +144,15 @@
 
 7.কুকিজ বিভিন্ন ধরণের তথ্য সংরক্ষণ করতে পারে, যেমন ব্যবহারকারী আইডি, টাইমস্ট্যাম্প এবং ব্রাউজিং হিস্ট্রি। যখন একটি ওয়েবসাইট কুকি ব্যবহার কর
 
+```
+
  </details>
  <details>
 <summary> parts of cookie
 ? (Click Me) </summary>
 <br>
+
+```
 1.A cookie typically consists of four parts:
 
 2.Name: The name of the cookie.
@@ -159,15 +180,21 @@
 
 15.সিকিউর (Secure): এটি নির্দেশ করে কুকি কেবল সিকিউর কানেকশনসহ পাঠানো হবে কিনা।
 
+```
+
  </details>
  <details>
 <summary> What is loacal storage
 ? (Click Me) </summary>
 <br>
+
+```
 1.লোকাল স্টোরেজ (Local Storage) হল ওয়েব ব্রাউজারের একটি ফিচার যা ব্যবহারকারীর ডেটা স্থায়ীভাবে সেভ করে রাখে। এটি একটি ব্রাউজার স্টোরেজ ইঞ্জিন যা ক্লায়েন্ট সাইড স্টোরেজ সেট করে।
 
 2.লোকাল স্টোরেজ একটি জাভাস্ক্রিপ্ট API এবং এটি ওয়েব স্টোরেজ এপিআইর একটি অংশ। এটি সিধান্তগুলি ব্যবহার করে ব্রাউজারের মধ্যে স্থায়ী ডেটা সেভ করতে পারে। এটি সংগ্রহকারী আকারে ব্যবহার করা যেতে পারে যা সেশন কুকির সাথে তুলনায় অনেকটা মিল করে, কিন্তু সেশন কুকির থেকে কোনও উদ্দেশ্যে ব্যবহার করা যায় না।
 
 3.লোকাল স্টোরেজ এর সুবিধা হল এটি স্থায়ীভাবে ডেটা সেভ করে রাখতে পারে যা সেশন শেষ হওয়ার পরে ওয়েবসাইট বা এপ্লিকেশনে সেট করা ডেটার উপর নির্ভর করে না। এছাড়াও লোকাল স্টোরেজ ডে
+
+```
 
  </details>
