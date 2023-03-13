@@ -28,7 +28,7 @@
 - [loops-practice-problems-19](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/loops-practice-problems-19)
 - [js-function-object-20](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/js-function-object)
 - [apply-js-concept-21](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/apply-js-concept-21)
-- [JavaScript-dom-25](https://github.com/Rakib011110/JavaScript-dom-25)
+- [JavaScript-dom-25](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/JavaScript-dom-25)
 
 <h4>javaScript-ES6-31</h4>
 
