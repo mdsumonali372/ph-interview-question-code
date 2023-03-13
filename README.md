@@ -41,7 +41,7 @@
 
 <h4>about browsers</h4>
 
-- [all-about-browsers-42](https://github.com/Rakib011110/all-about-browsers-42/blob/main/README.md)
+- [all-about-browsers-42](https://github.com/mdsumonali372/ph-interview-question-code/tree/main/all-about-browsers-42)
 
 ##
 
